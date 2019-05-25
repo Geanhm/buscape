@@ -1,4 +1,18 @@
 .navbar-yellow{
-    background-color: #9acd32;
-    
+    background-color: #ffcd08;
+    /*height: 150px;*/
+}
+
+.nav-link {
+    border-left: 1px solid black;
+}
+
+.first-nav-item{
+    border:none;
+}
+
+.icon-user{
+    background: white;
+    border-radius: 360px;
+    border: 1px solid lightgray;
 }
